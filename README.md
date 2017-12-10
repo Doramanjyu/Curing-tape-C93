@@ -16,11 +16,14 @@
 初期は、布テープにポリエチレンコーティングを施した物。
 日本で言うガムテープ的存在。
 
+(乳大、背高、US Navy sailor uniform風)
+
 * あめりかん
 * ちょうつよい
+* でも実はダクトには向いていない
 
-[参考: J&J](https://ourstory.jnj.com/duct-tape)
-[参考: 英wikipedia](https://en.wikipedia.org/wiki/Duct_tape#History_and_etymology)
+- [参考: J&J](https://ourstory.jnj.com/duct-tape)
+- [参考: 英wikipedia](https://en.wikipedia.org/wiki/Duct_tape#History_and_etymology)
 
 ### あるみてーぷ
 
@@ -28,10 +31,12 @@
 また、接着剤も電気導電性を持つタイプがあり、電子機器の電磁ノイズ対策にも有効とされる。
 近年、TOYOTAが、車表面やエンジンルーム内の非導電性部品にアルミテープを貼ることで、空力性能を改善する特許が出願されていたりもする。
 
+(銀髪、裾の上がった着物、髪飾り、キセル持ってる、～じゃ)
+
 * ろりばばあ
 * つやつや
 
-[参考: TOYOTA](https://astamuse.com/ja/published/JP/No/2016125398)
+- [参考: TOYOTA](https://astamuse.com/ja/published/JP/No/2016125398)
 
 ### ぽりいみどてーぷ (かぷとんてーぷ)
 
@@ -39,6 +44,8 @@
 ポリイミドは、イミド結合による繰り返し構造を持つ高分子の総称であり、その強固な分子構造と強い分子間力により、熱的、機械的、化学的な安定性が高い。
 -200～+400以上で安定。
 JAXAの小型ソーラー電力セイル実証機IKAROSの帆もポリイミドである。
+
+(色黒、やせ、東南アジア・インドっぽい雰囲気に透けストール)
 
 * 透け透け
 * 内側に配線パターン
