@@ -16,13 +16,13 @@
 - 背高
 - US Navy sailor uniform風
 
+![DuctTape](thumbs/DuctTape.png)
+
 ## キャラ特徴
 
 - あめりかん
 - ちょうつよい
 - でも実はダクトには向いていない
-
-![DuctTape](thumbs/DuctTape.png)
 
 ## 4コマ
 
