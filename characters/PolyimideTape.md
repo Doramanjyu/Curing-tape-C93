@@ -11,7 +11,9 @@ JAXAの小型ソーラー電力セイル実証機IKAROSの帆もポリイミド�
 
 - 色黒
 - やせ
-- 東南アジア・インドっぽい雰囲気に透けストール
+- オリエンタル・南国な雰囲気に透けストール
+
+![PolyimideTape](thumbs/PolyimideTape.png)
 
 ## 4コマ
 
