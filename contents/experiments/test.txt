@@ -1,0 +1,27 @@
+> t.test(a1,a2,var.equal=F)
+
+	Welch Two Sample t-test
+
+data:  a1 and a2
+t = 0, df = 10, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2690733  0.2690733
+sample estimates:
+mean of x mean of y 
+    3.625     3.625 
+
+> t.test(g1,g2,var.equal=F)
+
+	Welch Two Sample t-test
+
+data:  g1 and g2
+t = -1.9868, df = 5.8541, p-value = 0.09532
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.69970829  0.07470829
+sample estimates:
+mean of x mean of y 
+   1.4375    1.7500 
+
+
